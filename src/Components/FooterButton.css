@@ -1,0 +1,39 @@
+.btn-footer {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button2 {background-color: #008CBA;} /* Blue */
+  .button3 {background-color: #f44336;} /* Red */ 
+  .button4 {background-color: #e7e7e7; color: black;} /* Gray */ 
+  .button5 {background-color: #555555;} /* Black */
+.download-link{
+    text-decoration: none !important;
+    color: white !important;
+}
+
+.json-buttons{
+    margin: 0 auto;
+    text-align: center;
+}
+.btn-addStandard{
+    background-color: #008CBA; /* blue */
+    border: none;
+    color: white;
+    padding: 17px 460px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 30px 9px;
+    cursor: pointer;
+}
+
