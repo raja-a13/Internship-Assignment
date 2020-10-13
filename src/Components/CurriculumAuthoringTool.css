@@ -26,18 +26,7 @@
     font-weight: bold;
 } */
 
-.btn-addStandard{
-    background-color: #008CBA; /* blue */
-    border: none;
-    color: white;
-    padding: 17px 460px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 30px 9px;
-    cursor: pointer;
-}
+
   
 
 .row{

@@ -39,11 +39,11 @@ function LessonItem({title,depth,currentIndex}){
     function leftIndent(index){
         let data = items
 
-        console.log(index)
+        // console.log(index)
         var totalNumOfItems = data.length
         var currentIndexDepth = data[index]["depth"]
         if(index === 0) return
-        if(currentIndexDepth <= 1) return
+        if(currentIndexDepth < 1) return
         var numChildren = countChildren(index,totalNumOfItems,currentIndexDepth);
         if(numChildren === 0){
                 data[index]["depth"]--;

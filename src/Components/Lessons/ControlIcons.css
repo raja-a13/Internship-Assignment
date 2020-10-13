@@ -35,6 +35,10 @@
     visibility: visible;
     opacity: 1;
   }
+  .tooltip:focus  {
+    outline: none;
+  }
+
 
 .controlButtons:hover{
     color:#008CBA;
